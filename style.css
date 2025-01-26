@@ -113,10 +113,8 @@ footer {
     background: #007bff;
     color: #fff;
     text-align: center;
-    display: flex;
     justify-content: center;
     align-items: center;
-    position: relative;
     max-width: 100%;
     position: fixed;
     bottom: 0;
