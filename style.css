@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background: #82bdfd;
+    background:#442f8f ;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -130,11 +130,11 @@ footer {
 
 .social-icons a {
     color: #fff;
-    margin: 0 5%;
+    margin: 0 5px;
     background-color: #200079;
     padding: 10px;
     text-decoration: none;
-    font-size: 5px;
+    font-size: 10px;
     flex-direction: row;
     transition: color 0.3s;
 }
