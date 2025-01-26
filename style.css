@@ -130,9 +130,9 @@ footer {
     color: #fff;
     margin: 0px;
     background-color: #200079;
-
+    padding: 5px;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 15px;
     flex-direction: row;
     transition: color 0.3s;
 }
